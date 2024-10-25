@@ -17,7 +17,7 @@ Senior software engineer with over 20 years of experience in designing, developi
 # Experience
 ## TERADATA
 ### Devops/Vantage Cloud 2021 - Present
-- Designed and developed scalable Kubernetes microservices in Golang to query Teradata Databases via REST APIs, improving query throughput by using golang streams. This is used across all Vantage Cloud customer accounts.
+- Designed and developed scalable Kubernetes microservices in Golang to query Teradata Databases via REST APIs, improving query throughput by using golang streams. This service is used by all Vantage Cloud customers.
 - Automated the configuration, installation, and upgrade of systemd services using Python scripts  
 - Developed and maintained CI/CD pipelines using GitHub workflows to automate testing, packaging RPMs, and deployment of artifacts, ensuring 100% build success.  
 - Built AWS Chalice applications to capture product statistics for Vantage Cloud, improving visibility and operational metrics across customer accounts.
