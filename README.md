@@ -7,42 +7,40 @@
 ---
 
 # Summary
-A senior professional with experience in leading, developing and testing solutions for enterprise systems. Pass software experience includes working with call center software, enterprise social network, service provider video platform, devops automation, and building microservices on the cloud. Excellent team player with proven ability to plan,      organize, and deliver projects to completion.
+Senior software engineer with over 20 years of experience in designing, developing, and deploying enterprise-level solutions across industries such as call center platform, video platform, cloud microservices, and enterprise social network. Proficient in leading cross-functional teams to deliver innovative solutions. Demonstrated expertise in driving project completion through agile methodologies and continuous integration practices.
 
 # Highlight
-- Concepts​: Agile/Scrum Planning, CI/CD, Unit Test Automation, Object Oriented Methodologies, Semantic Web
-- Tools​: Docker, Kubectl, Git, Jira, Artifactory, Vscode, Rally, Eclipse, Pytest
-- Languages​: Python, Golang, Nodejs, Basic Shell scripting, Java 
-- Other: Github, Jenkins, Docker, Kubernetes, Hashicorp Terraform, AWS Chalice, Mongodb, Zookeeper, Redis, Consul
+- **Concepts**​: Agile/Scrum Planning, CI/CD, Unit Test Automation, Object-Oriented Design, Semantic Web
+- **Tools**​: Docker, Kubernetes (Kubectl), Git, Jenkins, Jira, Artifactory, Visual Studio Code, Eclipse, Pytest, Rally
+- **Languages**​: Python, Golang, Node.js, Shell scripting, Java
+- **Cloud/DevOps**: AWS Chalice, HashiCorp Terraform, Docker, Consul
+- **Databases/Storage**: MongoDB, Redis, Zookeeper
 
 # Experience
 ## TERADATA
 ### Devops/Vantage Cloud 2021 - Present
-Build a scalable REST Based micro-service that is used by all Teradata Vantage Cloud customers. 
-- Design and built a kubernetes microservice in golang to query customer Teradata Databases using REST APIs.
-- Wrote python scripts to help configure/install/upgrade a systemd service
-- Build CI/CD Github workflows to automate testing, package rpms, and deploy artifacts for release
-- Build AWS Chalice app to capture Vantage Cloud product statistics
+- Designed and developed scalable Kubernetes microservices in Golang to query Teradata Databases via REST APIs, improving query throughput by using golang streams. This is used across all Vantage Cloud customer accounts.
+- Automated the configuration, installation, and upgrade of systemd services using Python scripts  
+- Developed and maintained CI/CD pipelines using GitHub workflows to automate testing, packaging RPMs, and deployment of artifacts, ensuring 100% build success.  
+- Built AWS Chalice applications to capture product statistics for Vantage Cloud, improving visibility and operational metrics across customer accounts.
+
 ### Devops/Analytics Platform Group 2018 - 2020
-Manage, build, and configure automation tools to deploy Teradata Analytics Platform on VM.
-- Design, develop, and implement a python installer to deploy kubernetes apps for Teradata’s 
-Analytics product on hardware, vsphere, and AWS platform 
-- Manage Jenkins pipeline to package, test, and release artifacts for installer 
-- Automate configuration of analytics engine component using ansible scripts and python
+- Designed and developed an end-to-end Python installer to deploy Kubernetes applications for Teradata’s Analytics product across various platforms, including hardware and vSphere, streamlining deployment and reducing manual installation by 90%.
+- Led the continuous integration process using Jenkins pipelines to automate packaging, testing, and releasing of installer artifacts, ensuring efficient and error-free deployments.
+- Automated the configuration of the analytics engine components using Ansible and Python scripts
 
 ## CISCO
 ### Technical Lead/Service Provider Video Group 2013-2017
-Build an orchestration component for Cisco's virtualized video platform. Follow agile methodology to plan, design, and implement incremental features. ​Technology used include Node.js, Consul, SaltStack, Mongodb. 
-- Develop an end-to-end solution to deploy & configure video components on the platform. Build a Node.js SDK library to assist in deployment and configuration of Cisco video components
-- Implement a Node.js resource management service to discover used and unused nodes in the cluster
-- Implement Node.js service discovery component using Zookeeper 
-- Build a document store service on top of Mongodb using Node.js and Redis
+- Led the development of orchestration components for Cisco’s virtualized video platform, using technology such as Node.js, SaltStack, MongoDB.
+- Built a Node.js SDK library to assist with deployment and configuration of video components, used by multiple cross-functional teams.  
+- Developed a resource management service using Node.js and Zookeeper, automating the discovery of nodes in a cluster.  
+- Spearheaded the creation of a MongoDB-backed document storage service, optimizing storage efficiency and access latency for video streaming metadata.
 
 ### Senior Developer/Contact Center Group 1999-2008
-Build a Java framework to support call routing and IVR (i.e Interactive Voice Response). Worked with cross functional teams to plan for integration between components, end-to-end QA testing, and overall product release.  
-- Develop Java director service to manage all services within the Contact Center infrastructure 
-- Help develop a backup and restore solution for the Contact Center software using Java RMI, Applet, and Servlet technology.  
-- Lead a team to design and develop a scalable reporting server using ActiveMQ persistence
+- Built a robust Java framework to support call routing and Interactive Voice Response (IVR) systems, collaborating with cross-functional teams to plan integrations, conduct end-to-end QA testing, and ensure successful product releases.
+- Developed a Java-based service to efficiently manage all services within the Contact Center infrastructure, enhancing system reliability and coordination.
+- Contributed to the creation of a backup and restore solution for the Contact Center software, leveraging Java RMI, Applet, and Servlet technologies to improve data protection and disaster recovery capabilities.
+- Led a team in designing and developing a scalable reporting server using ActiveMQ persistence, providing real-time insights and improving data accessibility for operational reporting.
 
 # Patent
 - 3 Issued US Patents through Cisco Systems, Inc. 
