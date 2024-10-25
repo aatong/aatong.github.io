@@ -1,6 +1,4 @@
 # AARON TONG 
-- 3058 Etruscan Dr, San Jose, CA 95135
-- Phone: 408-657-6052
 - Email: aarontong@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aarontong/
 
